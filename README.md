@@ -1,2 +1,9 @@
-# Studio-Project-Swim-Centre-System
-Project 1 of COMP639
+# COMP639_group_7_project1
+
+Simon Test
+
+Fangxin test again
+
+zhaozhao test
+
+nay testing
